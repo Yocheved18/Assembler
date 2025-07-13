@@ -1,0 +1,4 @@
+SOMELABEL:
+mov zero , r0
+mov #0, register
+
